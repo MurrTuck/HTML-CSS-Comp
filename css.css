@@ -84,6 +84,7 @@ div + p {
     border: 35px solid blue;
     padding: 35px;
     margin: 35px;
+    box-sizing: border-box;
 }
 
 .relative {
@@ -157,6 +158,7 @@ div + p {
     margin: 1em;
     padding: 20px;
     border: 2px solid indianred;
+    box-sizing: border-box;
 }
 
 ::selection {
